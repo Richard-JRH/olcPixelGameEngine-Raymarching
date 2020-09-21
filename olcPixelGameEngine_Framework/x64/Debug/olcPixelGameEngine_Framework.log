@@ -1,0 +1,32 @@
+﻿  Main.cpp
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Main.cpp(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Raymarching.cpp
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(15,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(15,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(43,45): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(43,32): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(65,22): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(64,44): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(64,28): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(82,69): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(82,50): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(82,30): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(107,74): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(107,62): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(107,50): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(107,30): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(111,29): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(111,25): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(111,18): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(112,25): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(112,18): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(154,43): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(154,30): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(173,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(174,64): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\olcPixelGameEngine_Framework\Raymarching.cpp(174,51): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+  Generating Code...
+  olcPixelGameEngine_Framework.vcxproj -> C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raymarching\x64\Debug\olcPixelGameEngine_Framework.exe
